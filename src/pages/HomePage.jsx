@@ -3,7 +3,7 @@ import Carousel from "../components/Carousel";
 import Navbar from "../components/Navbar";
 import { FaArrowRightLong } from "react-icons/fa6";
 import Questions from "../components/Questions";
-import Review from "../components/review";
+import Review from "../components/Review";
 import Contact from "../components/Contact";
 import Last from "../components/Last";
 
